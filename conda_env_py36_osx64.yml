@@ -1,4 +1,4 @@
-name: plasticc
+name: lsst_kaggle
 channels:
   - mpi4py
   - defaults
@@ -114,7 +114,7 @@ dependencies:
   - service_identity=17.0.0=py36h28b3542_0
   - setuptools=40.2.0=py36_0
   - simplegeneric=0.8.1=py36_2
-  - sip=4.19.12=py36h0a44026_0
+  - sip=4.19.8=py36h0a44026_0
   - six=1.11.0=py36_1
   - sqlite=3.24.0=ha441bb4_0
   - statsmodels=0.9.0=py36h1d22016_0
